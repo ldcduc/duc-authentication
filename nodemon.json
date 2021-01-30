@@ -1,0 +1,5 @@
+{
+    "ext": "js, html, ejs",
+    "watch": ["."],
+    "exec": "node app.js"
+}
